@@ -29,6 +29,8 @@ We intend to work simultaneously on both of the tasks. For the clustering part w
 
 ## Organization within the team :
 Since we think that the visualization is the easiest part we will distribute the tasks as follows:
+
 * clustering: Lucas Giordano and Augustin
 * visualization: Lucas Gruaz
+
 We will of course work together and help each other to overcome any issues encountered, but this shows what we will be most focused on.
