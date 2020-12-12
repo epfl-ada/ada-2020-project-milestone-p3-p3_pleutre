@@ -79,7 +79,7 @@ While the paper establishes the validity of the Tesco 1.0 dataset we propose to 
 
 ### Total contribution:
 
-| Team member(s)                  | work hours   |
+| Team member                     | work hours   |
 |:--------------------------------| ------------:|
 | Lucas Giordano                  | 38h          |
 | Lucas Gruaz                     | 24h          |
