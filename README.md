@@ -106,7 +106,7 @@ In order to be able to run our notebook, you should have a folder structure simi
     ├── vizu.ipynb                          # Notebook containing only the vizualisations (if the reader only was to see the interactive viz)
     └── README.md               
     
-Regarding the data folder a zip file can be downloaded [here](https://drive.google.com/drive/folders/1DH7EXo6Pbm2guJkWW75-wbYPa_5KTGQd?usp=sharing). It only remains to place in under the root directory of the repository and unzip it to be able to run the following notebooks. 
+Regarding the data folder a zip file can be downloaded [here](https://drive.google.com/drive/folders/1DH7EXo6Pbm2guJkWW75-wbYPa_5KTGQd?usp=sharing). It only remains to place it under the root directory of the repository and unzip it to be able to run the following notebooks. 
 
 > ```extension.ipynb``` is therefore the "single" notebook that we are supposed to deliver for the P4 submission.
 
@@ -118,5 +118,4 @@ Furthermore, you should have the following additional libraries installed
 | Library                         |
 |:--------------------------------| 
 | Geopandas                       |
-| Bokeh                           | 
-| Augustin Kapps                  |
+| Bokeh                           |
