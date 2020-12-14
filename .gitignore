@@ -1,3 +1,6 @@
 /vscode
-/data
+/data/all
+/data/statistical-gis-boundaries-london
 .ipynb_checkpoints
+/.ipynb_checkpoints
+/__pycache__

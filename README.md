@@ -104,13 +104,14 @@ In order to be able to run our notebook, you should have a folder structure simi
     ├── images                              # Contains the ouput images and html used for the data story
     ├── extension.ipynb                     # Deliverable notebook for our extension
     ├── vizu.ipynb                          # Notebook containing only the vizualisations (if the reader only was to see the interactive viz)
+    ├── Data Extraction.ipynb               # Notebook that generates the subset of tesco used in this analysis
     └── README.md               
     
 Regarding the data folder a zip file can be downloaded [here](https://drive.google.com/drive/folders/1DH7EXo6Pbm2guJkWW75-wbYPa_5KTGQd?usp=sharing). It only remains to place it under the root directory of the repository and unzip it to be able to run the following notebooks. 
 
 > ```extension.ipynb``` is therefore the "single" notebook that we are supposed to deliver for the P4 submission.
 
-Note: ```vizu.ipynb``` is only there for the people who read our data story but still want to play with the interactive vizualisation without having to go through the entire deliverable notebook.
+Note: ```vizu.ipynb``` is only there for the people who read our data story but still want to play with the interactive vizualisation without having to go through the entire deliverable notebook. Furthermore, in the previously mentioned drive folder, the zip should contain a file named ```tesco.csv```. The latter contains all the revelant information from the original ```Tesco``` dataset for this analysis. It is nicely indexable and makes easier for us to query information. Alternatively, you could simply run the notebook ```Data Extraction.ipynb``` to generate it.
 
 ### Dependencies requirement
 
