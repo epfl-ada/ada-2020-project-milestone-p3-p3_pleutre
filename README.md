@@ -14,7 +14,7 @@ While the paper establishes the validity of the Tesco 1.0 dataset we propose to 
 
 ## Proposed datasets
 
-1. [Tesco grocery 1.0](https://figshare.com/articles/Area-level_grocery_purchases/7796666) -- This dataset contains all the necessary information to create the clusters described above. It is more general than the version made available in the [course](https://drive.google.com/drive/folders/19mY0rxtHkAXRuO3O4l__S2Ru2YgcJVIA) since it contains information for each month of 2015 as well as for the entire year.
+1. [Tesco grocery 1.0](https://figshare.com/articles/Area-level_grocery_purchases/7796666) -- This dataset contains all the necessary information  to create the clusters described above. It is more general than the version made available in the [course](https://drive.google.com/drive/folders/19mY0rxtHkAXRuO3O4l__S2Ru2YgcJVIA) since it contains information for each month of 2015 as well as for the entire year.
 2. [Diabetes estimates Osward](https://drive.google.com/drive/folders/19mY0rxtHkAXRuO3O4l__S2Ru2YgcJVIA) --  This is the dataset used in the course to perform the first replication.
 3. [Statistical GIS Boundary Files for London](https://data.london.gov.uk/dataset/statistical-gis-boundary-files-london) -- This dataset will help us to relate the areas of the Tesco dataset with their real geographical positions, needed for the visualization.
 
